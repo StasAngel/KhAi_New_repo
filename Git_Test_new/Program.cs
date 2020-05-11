@@ -11,6 +11,7 @@ namespace Git_Test_new
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello Git!");
+            System.Console.WriteLine("First feature changes");
         }
     }
 }
